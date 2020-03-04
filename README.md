@@ -1,5 +1,6 @@
 # Geeks
-Blogging application project
+
+Blogging application 
 The blog application contains The API which were returned on the JSON-encoded objects (Content-Type: application/json).and the responses vary according to the method/endpoint used, but every response envelope includes these common parts i.e. meta and response.
 We used to several functions i.e post and get All Posts we used them because the posts object in getAllPosts is a dictionary that contains much more than just each post from the staff blog - it also has items like how many posts the blog contains, the blog's description and when it was last updated, etc.
 I Used the AWS Elastic Beanstalk which configured to allow remote debugging, enabled us to debug their applications directly in the AWS cloud.
